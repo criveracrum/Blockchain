@@ -1,16 +1,6 @@
 /*--------------------------------------------------------
 
-1. Name / Date: Chadwick Rivera-Crum / 5/27/20
-
-2. Java version used, if not the official version for the class: Java 1.8
-
-
-
-3. Precise command-line compilation examples / instructions:
-
- javac -cp "gson-2.8.2.jar" *.java
- javac -cp "gson-2.8.2.jar" *.java
-
+Chadwick
 
 
 
@@ -25,19 +15,7 @@
 
 
 
-All acceptable commands are displayed on the various consoles.
 
-
-5. List of files needed for running the program.
-
-
-checklist-block.html
-Blockchain.java
-BlockchainLog.txt
-BlockchainLedgerSample.json
-BlockInput0.txt, BlockInput1.txt, BlockInput2.txt
-
-5. Notes:
 
 In this current implementation, I have the work loop set to continue running as if we are waiting for more input. 
 
